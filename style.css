@@ -236,4 +236,8 @@ h1,h2,h3 {
     .company__main {
         font-size: 12.25em;
     }
+
+    .company__sub {
+        padding-bottom: 5em;
+    }
 }
