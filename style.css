@@ -231,7 +231,7 @@ h1,h2,h3 {
 @media (min-width: 1200px) {
 
     .company__main {
-        font-size: 12.25em;
+        font-size: 14em;
     }
 
     .company__sub {
