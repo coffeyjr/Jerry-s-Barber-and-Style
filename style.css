@@ -212,3 +212,28 @@ h1,h2,h3 {
     color: #fff;
     box-shadow: inset 200px 0 0 0 #949494;
 }
+
+@media (min-width: 700px) {
+    .company__main{
+        font-size: 11em;
+    }
+    
+    .company__sub {
+        font-size: 1em;
+        letter-spacing: 1.5em;
+    }
+
+    .team__members {
+        flex-direction: row;
+    }
+}
+
+@media (min-width: 1200px) {
+    body {
+        font-size: 1.5em;
+    }
+
+    .company__main {
+        font-size: 12.25em;
+    }
+}
